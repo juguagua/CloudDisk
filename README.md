@@ -1,4 +1,7 @@
 # CloudDisk 
+[![CodeSize](https://img.shields.io/github/languages/code-size/juguagua/CloudDisk)](https://github.com/juguagua/CloudDisk)
+[![LICENSE](https://img.shields.io/badge/license-MIT-green)](https://mit-license.org/)
+[![HitCount](https://hits.dwyl.com/juguagua/CloudDisk.svg)](http://github.com/juguagua/CloudDisk)
 ##### 最初单纯是个人兴趣想放一些东西在虚拟存储上，于是便只基于gin框架写了简单的文件上传和下载服务接口，之后受其他开源项目启发，增添了一些功能
  
 ## 功能介绍
